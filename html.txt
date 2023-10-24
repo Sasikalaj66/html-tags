@@ -1,0 +1,50 @@
+<html>
+<head>
+<title> WOMEN FREEDOM FIGHTERS.com</title>
+<body bgcolor="solid green">
+<center><h1>"WELCOME TO WOMEN FREEDOM FIGHTERS.com"</h1>
+<p>Throughout history, women in India have consistently served as sources of inspiration, whether in contemporary times or during the era of the Indian independence movement. They have perpetually represented strength and served as exemplars of bravery within society. The Indian struggle for freedom boasted numerous notable female figures whose contributions brought about noteworthy transformations.
+Female Freedom fighters of India, pioneering figures in the nation’s struggle for independence, defied societal norms to play vital roles. From Rani Laxmibai’s battlefield bravery to Sarojini Naidu’s poetic inspiration, their contributions inspire generations and challenge gender barriers.
+In this piece, we will explore ten female freedom fighters who valiantly combated challenges, etching their names indelibly in the annals of Indian independence history.</p>
+</h1>
+<ul>
+<li>Rani Lakshmi Bai</li>
+<li>Sarojini Naidu</li>
+<li>Kasturba Gandhi</li>
+</ul>
+<ul>
+<h4><li>Rani Lakshmi Bai</li></h4>
+<p>No other woman warrior in the history of India has made such a powerful impact on the minds of the Indian people as the Rani of Jhansi, Lakshmi Bai. She was the second wife of the ruler of Jhansi Raja Gangadhar Rao who protested against the ‘Doctrine of Lapse’. She refused to surrender Jhansi and fought bravely attired as a male during the Revolt of 1857 and died on the battlefield fighting the British forces. Her courage inspired many Indians to rise against the alien rule.</p>
+<image src="C:\Users\sasik\Downloads\rani laxmi bai.jpg" alt="Enter your text" height="180" width="300">
+<h4><li>Sarojini Naidu</li></h4>
+<p>Sarojini Naidu holds pride of place among women freedom fighters of India. She was responsible for awakening the women of India. She was the first Indian woman president of the Indian National Congress in 1925 at the Kanpur Session. In 1928, she came to the USA with the message of the nonviolence movement from Gandhiji. When in 1930, Gandhi was arrested for a protest, Sarojini took the helm of his movement. In 1931, she participated in the Round Table Summit, along with Gandhiji and Pundit Malavyaji. She was also the acting President of Congress in 1932. In 1942, she was arrested during the ‘Quit India’ protest and stayed in jail for 21 months. She was a gifted poet of the English language and was popularly known as the Nightingale of India. After independence, she became the first ever woman Governor of an Indian State (Uttar Pradesh).</p>
+<image src="C:\Users\sasik\Downloads\sarojini naidu.jpg" alt="Enter your text" height="177" width="280">
+<h4><li>Kasturba Gandhi</li></h4>
+<p>Kasturbai Mohandas Gandhi was an Indian political activist who was involved in the Indian independence movement during British India. She was married to Mohandas Gandhi, commonly known as Mahatma Gandhi. National Safe Motherhood Day is observed in India annually on April 11, coinciding with Kasturbai's birthday.</p>
+<image src="C:\Users\sasik\Downloads\kasturba gandhi.jpg" alt="Enter your text" height="171" width="295">
+<center><h3>WANTS TO KNOW MORE ABOUT THE HISTOY OF WOMEN FREEDOM 
+FIGHTERS?</h3>
+<h2>Create an account in our website to explore it more!! 
+@womenfreedomfighter.com</h2></center>
+<center>
+<form action="">
+First name: <br>
+<input type="text" id="fname" name="fname"><br>
+Last name: <br>
+<input type="text" id="lname" name="lname"><br>
+Email id: <br>
+<input type="text" id="eid" name="eid"><br>
+Phone no:<br>
+<input type="number" id="phno" name="phno"><br><br>
+<input type="submit" value="Create Account">
+</center>
+<center><h3>Your account has been created successfully!</h3></center>
+<h2>SEARCH THE Freedom fighter</h2>
+<form action="">
+Flower name: <br>
+<input type="text" id="flname" name="flname"><br>
+<input type="submit" value="Click me!"><br>
+</form>
+<p>YOU CAN GET THE DETAILS OF EVERY WOMEN FREEDOM FIGHTERS YOUR 
+SEARCHING FOR IN THE INDIA.</p>
+<center><h2>THANK YOU!</h2>
